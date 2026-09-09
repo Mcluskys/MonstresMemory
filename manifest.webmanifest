@@ -1,0 +1,19 @@
+{
+  "name": "Mémoire des Cris de Monstres",
+  "short_name": "Cris Monstres",
+  "description": "Jeu de mémoire sonore avec des monstres.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1f1515",
+  "theme_color": "#800020",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/images/fantome.png",
+      "sizes": "223x272",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
